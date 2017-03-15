@@ -1,5 +1,5 @@
 {
-    "name": "wyrihaximus/react-guzzle-psr7",
+    "name": "hotrush/react-guzzle-psr7",
     "description": "Asyncronous Guzzle (PSR7) adapter powered by react/http-client",
     "license": "MIT",
     "authors": [
